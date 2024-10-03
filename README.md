@@ -14,17 +14,19 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Capturas de Tela
 
-![Tela de Login](./assets/tela_login.png)
-![Tela de Login](./assets/tela_cadastro.png)
-![Tela de Login](./assets/tela_produto.png)
-![Tela de Login](./assets/tela_detalhe.png)
-![Tela de Login](./assets/carrinho.png)
-![Tela de Login](./assets/prdidos.png)
-![Tela de Login](./assets/usuario.png)
-
+## Tela de Login, Cadastro, Produto e Detalhe de produto
 
 <p align="center">
-  <img src="./assets/tela_produto.png" alt="Tela de Produtos" width="300" />
-  <img src="./assets/tela_detalhe.png" alt="Detalhes do Produto" width="300" />
-  <img src="./assets/carrinho.png" alt="Carrinho" width="300" />
+  <img src="./assets/tela_login.png" alt="Tela de Login" width="200" />
+  <img src="./assets/tela_cadastro.png" alt="Tela de Cadastro" width="200" />
+  <img src="./assets/tela_produto.png" alt="Tela de Produto" width="200" />
+  <img src="./assets/tela_detalhe.png" alt="Detalhe produto" width="200" />
+</p>
+
+## Tela de Carrinho, Pedidos e Usuario
+
+<p align="center">
+  <img src="./assets/carrinho.png" alt="Carrinho" width="200" />
+  <img src="./assets/prdidos.png" alt="Pedidos" width="200" />
+  <img src="./assets/usuario.png" alt="Usuario" width="200" />
 </p>
