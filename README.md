@@ -12,8 +12,8 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * Flutter: SDK para desenvolvimento de aplicativos multiplataforma.
 * Dart: Linguagem de programação usada no Flutter.
 
-#📸 Capturas de Tela
-** Tela Login: **
+## 📸 Capturas de Tela
+**Tela Login:**
 ![Tela de Login](./assets/tela_login.png)
 
 * Tela Cadastro:
