@@ -21,3 +21,10 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ![Tela de Login](./assets/carrinho.png)
 ![Tela de Login](./assets/prdidos.png)
 ![Tela de Login](./assets/usuario.png)
+
+
+<p align="center">
+  <img src="./assets/tela_produto.png" alt="Tela de Produtos" width="300" />
+  <img src="./assets/tela_detalhe.png" alt="Detalhes do Produto" width="300" />
+  <img src="./assets/carrinho.png" alt="Carrinho" width="300" />
+</p>
