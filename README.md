@@ -6,3 +6,23 @@ Este é um aplicativo mobile desenvolvido em Flutter que simula um hortifruti vi
 * Carrinho de Compras: Permite adicionar produtos ao carrinho, visualizar o total e remover itens.
 * Tela de Pedidos: Exibe o histórico de pedidos feitos pelo usuário.
 * Perfil do Usuário: Tela dedicada ao perfil do usuário com informações básicas.
+#🚀 Tecnologias
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+* Flutter: SDK para desenvolvimento de aplicativos multiplataforma.
+* Dart: Linguagem de programação usada no Flutter.
+
+📸 Capturas de Tela
+* Tela de Produtos:
+
+
+* Detalhes do Produto:
+
+
+* Carrinho de Compras:
+
+
+* Tela de Pedidos:
+
+
+* Perfil do Usuário:
