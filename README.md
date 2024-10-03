@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Capturas de Tela
 **Tela Login:**
-![Tela de Login](./assets/tela_login.png)
+* ![Tela de Login](./assets/tela_login.png)
 
 * Tela Cadastro:
 
