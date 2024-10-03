@@ -13,23 +13,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 * Dart: Linguagem de programação usada no Flutter.
 
 ## 📸 Capturas de Tela
-**Tela Login:**
-* ![Tela de Login](./assets/tela_login.png)
 
-* Tela Cadastro:
-
-
-
-* Tela de Produtos:
-
-
-* Detalhes do Produto:
-
-
-* Carrinho de Compras:
-
-
-* Tela de Pedidos:
-
-
-* Perfil do Usuário:
+![Tela de Login](./assets/tela_login.png)
+![Tela de Login](./assets/tela_cadastro.png)
+![Tela de Login](./assets/produto.png)
+![Tela de Login](./assets/detalhe.png)
+![Tela de Login](./assets/carrinho.png)
+![Tela de Login](./assets/pedido.png)
+![Tela de Login](./assets/usuario.png)
