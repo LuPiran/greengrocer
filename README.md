@@ -19,5 +19,5 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ![Tela de Login](./assets/tela_produto.png)
 ![Tela de Login](./assets/tela_detalhe.png)
 ![Tela de Login](./assets/carrinho.png)
-![Tela de Login](./assets/prdido.png)
+![Tela de Login](./assets/prdidos.png)
 ![Tela de Login](./assets/usuario.png)
