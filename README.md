@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 📸 Capturas de Tela
 
-## Tela de Login, Cadastro, Produto e Detalhe de produto
+### Tela de Login, Cadastro, Produto e Detalhe de produto
 
 <p align="center">
   <img src="./assets/tela_login.png" alt="Tela de Login" width="200" />
@@ -23,7 +23,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
   <img src="./assets/tela_detalhe.png" alt="Detalhe produto" width="200" />
 </p>
 
-## Tela de Carrinho, Pedidos e Usuario
+### Tela de Carrinho, Pedidos e Usuario
 
 <p align="center">
   <img src="./assets/carrinho.png" alt="Carrinho" width="200" />
